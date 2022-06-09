@@ -3,7 +3,7 @@
 #  и записывать ее в последнюю ячейку строки. В конце следует вывести
 #  полученную матрицу.
 
-matrix = [[int(input('Введите элемент: ')) for i in range(4)] for i in range(4)]
+matrix = [[int(input('Введите элемент: ')) for i in range(3)] for i in range(5)]
 
 for line in matrix:
     summa = 0
