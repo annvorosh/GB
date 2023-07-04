@@ -24,6 +24,8 @@ p.s. если проблемы с выбором датасета, то пиши
 #### Classify if a text sentence is funny or not
 Cover image
 
+https://www.kaggle.com/datasets/deepcontractor/200k-short-texts-for-humor-detection
+
 Data Card
 
 Code (20)
